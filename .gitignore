@@ -10,3 +10,5 @@
 *.json
 *.txt
 *.tmp
+
+.ipynb_checkpoints/*
